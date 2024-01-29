@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Komponuvalnik\Komponuvalnik\bin\Debug\Komponuvalnik.exe.config
+C:\Users\User\source\repos\Komponuvalnik\Komponuvalnik\bin\Debug\Komponuvalnik.exe
+C:\Users\User\source\repos\Komponuvalnik\Komponuvalnik\bin\Debug\Komponuvalnik.pdb
+C:\Users\User\source\repos\Komponuvalnik\Komponuvalnik\obj\Debug\Komponuvalnik.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Komponuvalnik\Komponuvalnik\obj\Debug\Komponuvalnik.Form1.resources
+C:\Users\User\source\repos\Komponuvalnik\Komponuvalnik\obj\Debug\Komponuvalnik.Properties.Resources.resources
+C:\Users\User\source\repos\Komponuvalnik\Komponuvalnik\obj\Debug\Komponuvalnik.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Komponuvalnik\Komponuvalnik\obj\Debug\Komponuvalnik.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Komponuvalnik\Komponuvalnik\obj\Debug\Komponuvalnik.exe
+C:\Users\User\source\repos\Komponuvalnik\Komponuvalnik\obj\Debug\Komponuvalnik.pdb
